@@ -8,4 +8,5 @@ dev
 gulp
 gulpfile.js
 package.json
+.gitignore
 /*.exe.stackdump
